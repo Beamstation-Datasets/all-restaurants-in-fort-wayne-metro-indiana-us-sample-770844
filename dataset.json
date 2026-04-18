@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Restaurant dataset spanning the Fort Wayne (Metro), Indiana metropolitan area including Fort Wayne. Covers a growing metropolitan dining market, filtered by the Restaurants category group. Includes verified business profiles, review analytics, competitive rankings, and contact details. Refreshed weekly.",
   "config_name": "All Restaurants in Fort Wayne (Metro), Indiana, US",
-  "export_job_id": "4033052b-517e-44ba-b6db-5c90bd28da5a",
+  "export_job_id": "e1c9301c-1545-4b23-a992-969bc6ce798c",
   "github_org": "Beamstation-Datasets",
   "id_short": 770844,
   "location_name": "Fort Wayne, IN",
   "location_type": "metro",
   "repo_name": "all-restaurants-in-fort-wayne-metro-indiana-us-sample-770844",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/770844/beamstation_770844_restaurants-us-fortwaynein_SAMPLE_DIST.csv",
-  "sample_pct": 12.47,
+  "sample_pct": 9.95,
   "sample_records": 99,
   "sample_sha256": "38547d1c4273d9e562fb761f28ef25821edc3520899dfff262524dd219a68146",
   "sample_size_bytes": 349575,
-  "total_records": 794,
-  "updated_at": "2026-03-31T14:11:10.369797+00:00"
+  "total_records": 995,
+  "updated_at": "2026-04-14T14:42:50.507618+00:00"
 }
