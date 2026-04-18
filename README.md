@@ -9,9 +9,9 @@
 | Dataset ID | `770844` |
 | Location | Fort Wayne, IN |
 | Category | Restaurants |
-| Full dataset size | 794 records |
-| Free sample size | 99 records (12.47%) |
-| Last export | 2026-03-31T14:11:10.369797+00:00 |
+| Full dataset size | 995 records |
+| Free sample size | 99 records (9.95%) |
+| Last export | 2026-04-14T14:42:50.507618+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-fort-wayne-metro-indiana-us-sample-770844/releases/download/sample-latest/beamstation_770844_restaurants-us-fortwaynein_SAMPLE_DIST.csv) |
 
 ## What is in this sample
